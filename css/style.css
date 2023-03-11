@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(204, 241, 238);
+    background-color: #E9F8F9;
   }
   hr
    {
@@ -15,4 +15,19 @@ h1
 }
 h3
 { color:#66BFBF;
+}
+
+p{
+    color: #2B3467
+
+}
+ul
+
+{
+    color: #2B3467
+
+}
+li{
+    color: #2B3467
+
 }
